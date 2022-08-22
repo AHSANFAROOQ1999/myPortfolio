@@ -112,7 +112,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/ZahidNoor7"
+                  href="https://github.com/AHSANFAROOQ1999"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -122,7 +122,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.upwork.com/freelancers/~01d4a0d725741c3f27"
+                  href="https://www.upwork.com/freelancers/~012b3189db30391995"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -132,7 +132,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.fiverr.com/muhammadzahid_"
+                  href="https://www.fiverr.com/users/ahsanfarooq1999"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -142,7 +142,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/muhammad-zahid-noor-aa72561aa/"
+                  href="http://linkedin.com/in/ahsan-farooq-9b1627199"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
